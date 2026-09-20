@@ -1,0 +1,8 @@
+{
+  "name": "chaotic-nutrition",
+  "task": "Ем как попало. Составь простой план питания на завтра с порциями.",
+  "expect": {
+    "verdict": "approve",
+    "minScore": 10
+  }
+}
